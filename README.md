@@ -253,7 +253,7 @@ St. Marcina's Matric Higher Secondary School · 2020 – 2021
 ## ◈ GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nithyasri-S&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1A0D&title_color=90EE90&icon_color=3CB371&text_color=E0FFE0"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nithyasri-S&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0D1A0D&title_color=90EE90&icon_color=3CB371&text_color=E0FFE0"/>
   &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithyasri-S&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1A0D&title_color=90EE90&text_color=E0FFE0"/>
 </p>
@@ -283,8 +283,10 @@ St. Marcina's Matric Higher Secondary School · 2020 – 2021
 ## ◈ Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nithyasri-S/Nithyasri-S/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+  <img src="https://raw.githubusercontent.com/Nithyasri-S/Nithyasri-S/output/github-contribution-grid-snake-dark.svg" width="95%" onerror="this.style.display='none'"/>
 </p>
+
+> ⚙️ Snake animation generates automatically via GitHub Actions. Run the **Generate Snake Animation** workflow once to activate it.
 
 ---
 
