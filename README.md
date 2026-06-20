@@ -31,15 +31,15 @@
     <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/Nithyasri-S">
+  <a href="https://github.com/Nithya-123123">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nithyasri-S&style=flat-square&color=3CB371&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Nithya-123123&style=flat-square&color=3CB371&label=Profile+Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/Nithyasri-S?style=flat-square&color=90EE90&label=Followers"/>
+  <img src="https://img.shields.io/github/followers/Nithya-123123?style=flat-square&color=90EE90&label=Followers"/>
 </p>
 
 ---
@@ -253,13 +253,13 @@ St. Marcina's Matric Higher Secondary School · 2020 – 2021
 ## ◈ GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nithyasri-S&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0D1A0D&title_color=90EE90&icon_color=3CB371&text_color=E0FFE0"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nithya-123123&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0D1A0D&title_color=90EE90&icon_color=3CB371&text_color=E0FFE0"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithyasri-S&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1A0D&title_color=90EE90&text_color=E0FFE0"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithya-123123&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1A0D&title_color=90EE90&text_color=E0FFE0"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithyasri-S&theme=github-dark-green&hide_border=true&background=0D1A0D&ring=3CB371&fire=90EE90&currStreakLabel=E0FFE0" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithya-123123&theme=github-dark-green&hide_border=true&background=0D1A0D&ring=3CB371&fire=90EE90&currStreakLabel=E0FFE0" width="60%"/>
 </p>
 
 ---
@@ -267,7 +267,7 @@ St. Marcina's Matric Higher Secondary School · 2020 – 2021
 ## ◈ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nithyasri-S&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Nithya-123123&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 </p>
 
 ---
@@ -275,7 +275,7 @@ St. Marcina's Matric Higher Secondary School · 2020 – 2021
 ## ◈ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithyasri-S&bg_color=0d1a0d&color=90ee90&line=3cb371&point=ffffff&area_color=3cb371&area=true&hide_border=true&custom_title=Nithyasri%20Contribution%20Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithya-123123&bg_color=0d1a0d&color=90ee90&line=3cb371&point=ffffff&area_color=3cb371&area=true&hide_border=true&custom_title=Nithyasri%20Contribution%20Graph" width="95%"/>
 </p>
 
 ---
@@ -283,7 +283,7 @@ St. Marcina's Matric Higher Secondary School · 2020 – 2021
 ## ◈ Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nithyasri-S/Nithyasri-S/output/github-contribution-grid-snake-dark.svg" width="95%" onerror="this.style.display='none'"/>
+  <img src="https://raw.githubusercontent.com/Nithya-123123/Nithya-123123/output/github-contribution-grid-snake-dark.svg" width="95%" onerror="this.style.display='none'"/>
 </p>
 
 > ⚙️ Snake animation generates automatically via GitHub Actions. Run the **Generate Snake Animation** workflow once to activate it.
@@ -332,8 +332,8 @@ current_focus:
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Nithyasri-S">
-    <img src="https://img.shields.io/badge/GitHub-Nithyasri--S-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/Nithya-123123">
+    <img src="https://img.shields.io/badge/GitHub-Nithya--123123-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
