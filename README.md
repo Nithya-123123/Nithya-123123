@@ -267,7 +267,7 @@ St. Marcina's Matric Higher Secondary School · 2020 – 2021
 ## ◈ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nithyasri-S&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Nithyasri-S&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 </p>
 
 ---
